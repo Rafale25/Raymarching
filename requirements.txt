@@ -1,0 +1,7 @@
+# pyglet==1.5.27
+pyopengl==3.1.6
+moderngl==5.6.4
+# moderngl==5.7.2
+moderngl-window==2.4.2
+pyglm==2.5.7
+imgui==1.4.1
